@@ -1,0 +1,14 @@
+{material
+	{layer bump
+		{diffuse "/texture/land/sand/soilsand0018_1_m"}
+		{bump "/texture/land/sand/soilsand0018_1_m_nm"}
+		{color 0xffffffff}
+		{parallax_scale 0}
+	}
+	{layer bump
+		{diffuse "/texture/land/sand/sandpebbles0029_12_m"}
+		{bump "/texture/land/sand/sandpebbles0029_12_m_nm"}
+		{color 0xffffffff}
+		{parallax_scale 0}
+	}
+}

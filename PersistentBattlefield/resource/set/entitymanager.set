@@ -1,0 +1,19 @@
+{entitymanager
+	{group "dead" actor dead
+	}
+	
+	{group "broken" gameentity
+	}	
+
+	{group "piece" gameentity
+	}
+
+	{group "stuff" stuff
+	}
+	
+	{group "equip" stuff
+	}
+	
+	{group "shellhole" gameentity
+	}
+}

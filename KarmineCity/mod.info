@@ -1,0 +1,7 @@
+{Mod
+	{Name "Karmine City (BETA)"}
+	{Desc "This is a huge and in progress city map."}
+	{MinGameVersion "0.760"}
+	{MaxGameVersion "0.760"}
+	{FileId "496969960"}
+}

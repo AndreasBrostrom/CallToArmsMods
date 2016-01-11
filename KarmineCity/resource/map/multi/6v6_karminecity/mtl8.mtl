@@ -1,0 +1,14 @@
+{material
+	{layer bump
+		{diffuse "/texture/land/grass/grass0104_7_m"}
+		{bump "/texture/land/grass/grass0104_7_m_nm"}
+		{color 0xffffffff}
+		{parallax_scale 0}
+	}
+	{layer bump
+		{diffuse "/texture/land/grass/grass0124_5_m"}
+		{bump "/texture/land/grass/grass0124_5_m_nm"}
+		{color 0xffffffff}
+		{parallax_scale 0}
+	}
+}

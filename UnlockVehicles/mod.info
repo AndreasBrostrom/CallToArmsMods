@@ -1,0 +1,7 @@
+{Mod
+	{Name "Unlock Vehicles (No level check)"}
+	{Desc "This mod unlocks vehicles for multiplayer matches with no level check."}
+	{MinGameVersion "0.760"}
+	{MaxGameVersion "0.760"}
+	{FileId "494456701"}
+}

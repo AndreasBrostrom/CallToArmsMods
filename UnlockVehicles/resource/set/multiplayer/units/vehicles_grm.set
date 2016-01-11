@@ -1,0 +1,25 @@
+;----- GRM -----
+
+
+;°°°Button 1°°°
+
+{"2b14_mortar"			("vs" c(0) t(all) 		s(grm) n1(2) g(av1) sc(25.00) b(v1) cw(2) cp(10)) {level 1} {cost 500} {fore 1}}
+{"technical_spg"      	("vs" c(300) t(all armor armored_warfare) 	s(grm) n1(3) g(av2) sc(17.50) b(v1) cw(0) cp(10)) {level 1} {cost 350} {fore 1}}	
+
+
+;°°°Button 2°°°
+
+{"technical_lmg"      	("vs" c(300) t(all armor armored_warfare) 	s(grm) n1(3) g(bv1) sc(7.50) b(v2) cw(0) cp(5)) {level 1} {cost 150} {fore 1}}
+{"technical_hmg"		("vs" c(300) t(all armor armored_warfare) 	s(grm) n1(3) g(bv1) sc(11.25) b(v2) cw(0) cp(5)) {level 1} {cost 225} {fore 1}}
+{"technical_zpu"		("vs" c(300) t(all armor armored_warfare) 	s(grm) n1(4) g(bv1) sc(22.50) b(v2) cw(0) cp(5)) {level 1} {cost 450} {fore 1}}
+
+{"btr-80"				("v" c(0) t(all armor armored_warfare) 		s(grm) n1(3) g(bv4) sc(27.50) b(v2) cw(5) cp(12)) {level 1} {cost 550} {fore 1}}
+{"btr-82a"				("v" c(0) t(all armor armored_warfare) 		s(grm) n1(3) g(bv5) sc(37.50) b(v2) cw(5) cp(12)) {level 1} {cost 750} {fore 1}}
+{"bmp2"					("v" c(0) t(all armor armored_warfare) 		s(grm) n1(4) g(bv6) sc(50.00) b(v2) cw(0) cp(16)) {level 1} {cost 1000} {fore 1}}
+
+
+;°°°Button 3°°°
+
+{"bmp3"					("v" c(0) t(all armor armored_warfare) 		s(grm) n1(4) g(cv1) sc(45.00) b(v3) cw(0) cp(16)) {level 1} {cost 900} {fore 1}}
+{"t-80bv"				("v" c(0) t(all armor armored_warfare) 		s(grm) n1(5) g(cv2) sc(55.00) b(v3) cw(0) cp(20)) {level 1} {cost 1100} {fore 1}}
+{"t-80u"				("v" c(0) t(all armor armored_warfare) 		s(grm) n1(5) g(cv3) sc(70.00) b(v3) cw(0) cp(20)) {level 1} {cost 1400} {fore 1}}

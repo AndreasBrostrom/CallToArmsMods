@@ -1,0 +1,7 @@
+{Mod
+	{Name "Persistent Battlefield"}
+	{Desc "This mod removes the despawn time for bodies, clutter, weapons and dead vehicles."}
+	{MinGameVersion "0.760"}
+	{MaxGameVersion "0.760"}
+	{FileId "493961316"}
+}
